@@ -5,7 +5,6 @@
 ![GitHub](https://img.shields.io/badge/Platform-Arduino-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![DDS](https://img.shields.io/badge/DDS-AD9850-green)
-![License](https://img.shields.io/badge/License-MIT-red)
 
 ---
 
